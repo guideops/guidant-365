@@ -65,6 +65,8 @@ Guidant 365 is built on the belief that operational infrastructure should be acc
 | No card required | Gmail draft integration | Templates and tags      | White-label deployment |
 |                  |                         | Priority calendar view  | Dedicated onboarding   |
 
+**14-day free trial. No card required.**
+
 The free tier is a full product, not a preview. It is designed for someone starting out or evaluating whether Guidant 365 fits how they work. Paid tiers unlock the capabilities that make it a complete operational platform.
 
 *All prices in USD. Local currency billing available on request.*
